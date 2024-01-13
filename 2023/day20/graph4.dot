@@ -1,0 +1,27 @@
+digraph {
+zc -> qb;
+zc -> pm;
+qb -> bf;
+qb -> kf;
+qb -> hd;
+qb -> nl;
+qb -> pm;
+qb -> lb;
+hd -> ms;
+hd -> qb;
+pm -> ff;
+ff -> qb;
+ff -> lm;
+ms -> qb;
+ms -> cc;
+lm -> dh;
+lm -> qb;
+dh -> sz;
+dh -> qb;
+sz -> qb;
+kf -> zc;
+bf -> kf;
+cc -> qb;
+cc -> nl;
+nl -> bf;
+}
